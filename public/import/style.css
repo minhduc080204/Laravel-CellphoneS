@@ -1,0 +1,38 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+.my_menu_link{
+    color: black;
+}
+.my_menu_link:hover{
+    color: red;
+}
+.my_header_link{
+    color: white;
+}
+.my_header_link:hover{
+    color: rgb(0, 187, 255);
+}
+.mini{
+    font-size: 15px;
+}
+#back-to-top {
+    background-color: rgb(223, 51, 51);
+    color: white;
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    display: none;
+}
+.price{
+    color: red;
+}
+.MultiCarousel { float: left; overflow: hidden; padding: 15px; width: 100%; position:relative; }
+.MultiCarousel .MultiCarousel-inner { transition: 1s ease all; float: left; }
+.MultiCarousel .MultiCarousel-inner .item { float: left;}
+.MultiCarousel .MultiCarousel-inner .item > div { text-align: center; padding:10px; margin:10px; background:#f1f1f1; color:#666;}
+.MultiCarousel .leftLst, .MultiCarousel .rightLst { position:absolute; border-radius:50%;top:calc(50% - 20px); }
+.MultiCarousel .leftLst { left:0; }
+.MultiCarousel .rightLst { right:0; }
+.MultiCarousel .leftLst.over, .MultiCarousel .rightLst.over { pointer-events: none; background:#ccc; }
