@@ -1,3 +1,47 @@
+# 📱💻 Phone and Laptop Store – Laravel E-commerce Website
+
+An E-commerce platform developed using **Laravel** and **MySQL**, designed to offer users a complete online shopping experience. It supports secure user authentication, a smooth product browsing interface, and admin functionality for platform management.
+
+---
+
+## 🌟 Features
+
+### 🛒 For Users
+- **User Authentication**  
+  - Secure registration and login  
+  - Session-based access control
+
+- **Product Browsing & Shopping**
+  - View product listings and detailed information  
+  - Add products to shopping cart  
+  - Place orders with form validation
+
+- **Product Interaction**
+  - Leave comments and feedback on product pages  
+  - View other users’ reviews
+
+### 🛠️ For Administrators
+- **Product Management**
+  - Add, edit, and delete products  
+  - Upload product images and manage inventory
+
+- **Order Management**
+  - View customer orders and statuses  
+  - Update order states (e.g. processing, shipped)
+
+---
+
+## 🔧 Technologies Used
+
+- **Backend**: Laravel (PHP Framework)  
+- **Frontend**: HTML, CSS, JavaScript  
+- **Database**: MySQL  
+- **Authentication**: Laravel Auth Scaffolding  
+- **Styling**: Bootstrap (optional)
+
+---
+
+
 ![image](https://github.com/MinhDuc8204/Laravel-CellphoneS/assets/111864107/016f303d-70d0-4460-b644-d8b9ec97fb72)
 ![image](https://github.com/MinhDuc8204/Laravel-CellphoneS/assets/111864107/a51097b8-088c-4f5e-b9db-df73c8a136d6)
 ![image](https://github.com/MinhDuc8204/Laravel-CellphoneS/assets/111864107/c18d5565-199e-47ab-8dc6-aaa558f18d89)
